@@ -1,24 +1,19 @@
-# README
+# Descripción General
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Aplicación web hecha en Ruby on Rails que contiene un inicio de sesión simple y un embed de un GSheet.
 
-Things you may want to cover:
+Se hizo un deploy a Heroku, disponible en el link: http://xepelin-festelle.herokuapp.com/
 
-* Ruby version
 
-* System dependencies
+# información Técnica
+## Versiones usadas
 
-* Configuration
+* Ruby 2.6.6
+* Ruby on Rails 6.1.4
+* Postgresql
 
-* Database creation
+## Gemas externas usadas
 
-* Database initialization
+* Devise: Administrar la sesión del usuario
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
