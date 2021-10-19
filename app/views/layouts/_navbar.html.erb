@@ -1,0 +1,10 @@
+
+<% if current_user%>
+  <nav>
+    <ul>
+      <li><a href=<%=welcome_index_path%>>Home</a></li>
+      <li><a href=<%=edit_user_registration_path%>>Editar Perfil</a></li>
+      <li><a href=<%=destroy_user_session_path%>>Cerrar sesión</a></li>
+    </ul>
+  </nav>
+<% end %>

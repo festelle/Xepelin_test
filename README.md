@@ -10,7 +10,6 @@ Se hizo un deploy a Heroku, disponible en el link: http://xepelin-festelle.herok
 
 * Ruby 2.6.6
 * Ruby on Rails 6.1.4
-* Postgresql
 
 ## Gemas externas usadas
 
